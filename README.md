@@ -13,9 +13,7 @@ Here, the same philosophy is extended from conventional CFD validation to AI-bas
 
 **Reference:** Zou et al. (2025), *Energy and Buildings*
 
-[📂 Benchmark Files](https://github.com/ranhuan22/AI-for-Urban-and-Building-Simulation-Database/tree/urban-microclimate-case-01)
-
-[📖 Case Description](https://github.com/ranhuan22/AI-for-Urban-and-Building-Simulation-Database/blob/urban-microclimate-case-01/README.md)
+[📂 Benchmark Files](https://github.com/ranhuan22/AI-for-Urban-and-Building-Simulation-Database/tree/case/urban-microclimate/UM-01)
 
 
 ## 🎯 Objectives
