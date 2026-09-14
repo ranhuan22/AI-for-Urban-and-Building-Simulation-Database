@@ -57,3 +57,21 @@ The database is intended to progressively cover the following areas.
 | ⚡ **Building Energy** | Building thermal and energy performance | Heating/cooling load, indoor temperature, energy consumption |
 | 🧱 **Building Envelope** | Thermal, hygrothermal, aerodynamic, and durability performance of façades, roofs, windows, curtain walls, insulation systems, and other envelope components | Surface temperature, heat flux, moisture content, condensation risk, pressure, deformation, thermal transmittance |
 | 🔥 **Fire and Smoke** | Fire-driven flow, flame spread, heat transfer, and smoke transport | Temperature, velocity, heat flux, smoke concentration, species concentration |
+
+## Suggested Benchmark Structure
+
+Each benchmark case should follow a common directory structure:
+
+```text
+Benchmarks/
+│
+├── Urban_Microclimate/
+│   ├── <Benchmark_Case_Name>/
+│   │   ├── README.md
+│   │   ├── Geometry/
+│   │   ├── Boundary_Conditions/
+│   │   ├── Reference_Data/
+│   │   ├── Training_Data/
+│   │   ├── Test_Data/
+│   │   ├── Baseline_Models/
+│   │   └── Evaluation/
