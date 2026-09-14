@@ -7,6 +7,17 @@ This repository aims to establish an open validation benchmark framework for AI-
 The concept is inspired by established CFD validation benchmark frameworks, particularly the benchmark approach developed by the Architectural Institute of Japan (AIJ), in which standardized geometries, boundary conditions, experimental measurements, and numerical results are used for systematic cross-comparison and model validation.
 Here, the same philosophy is extended from conventional CFD validation to AI-based physical simulation.
 
+## 🌡️ Urban Microclimate
+
+### UM-01 — Urban Overheating Prediction
+
+**Reference:** Zou et al. (2025), *Energy and Buildings*
+
+[📂 Benchmark Files](https://github.com/ranhuan22/AI-for-Urban-and-Building-Simulation-Database/tree/urban-microclimate-case-01)
+
+[📖 Case Description](https://github.com/ranhuan22/AI-for-Urban-and-Building-Simulation-Database/blob/urban-microclimate-case-01/README.md)
+
+
 ## 🎯 Objectives
 
 The database is designed to support four major objectives:
