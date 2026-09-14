@@ -93,22 +93,13 @@ For urban and building applications, an AI model should ideally demonstrate that
 The long-term objective of this project is therefore to move AI-based urban and building simulation from **case-specific prediction** toward **validated, generalizable, and transferable physical modeling**.
 
 ---
-
 ## Published Studies
 
 Related publications and benchmark applications are collected in:
 
-`Published Papers/`
+📚 [Published Papers](https://github.com/ranhuan22/AI-for-Urban-and-Building-Simulation-Database/blob/main/Published%20Papers)
 
-Researchers are encouraged to contribute publications that use these benchmark datasets for:
-
-- model validation;
-- cross-model comparison;
-- transfer learning;
-- generalization assessment;
-- uncertainty quantification; and
-- AI-assisted urban and building simulation.
-
+Researchers are encouraged to contribute publications that use these benchmark datasets for validation, comparison, transfer learning, or generalization studies.
 ---
 
 ## Contributing
