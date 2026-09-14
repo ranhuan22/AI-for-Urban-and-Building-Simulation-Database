@@ -43,3 +43,17 @@ A benchmark case may contain:
 | **Metrics** | Standardized quantitative measures for model comparison |
 | **Baseline models** | Representative AI/ML models provided for reference |
 | **Reference studies** | Publications describing the experiments, simulations, datasets, or benchmark applications |    
+
+## Benchmark Scope
+
+The database is intended to progressively cover the following areas.
+
+| Benchmark Track | Physical Problem | Typical Outputs |
+|---|---|---|
+| 🌬️ **Urban Wind** | Flow around buildings and urban districts | Velocity, pressure, turbulence |
+| 🌡️ **Urban Microclimate** | Urban thermal environment and heat transfer | Air temperature, surface temperature, radiation |
+| 🏙️ **Pollutant Dispersion** | Urban contaminant and tracer transport | Concentration, exposure |
+| 🏠 **Indoor Environment** | Ventilation, indoor airflow, and indoor environmental quality | Velocity, temperature, contaminant concentration |
+| ⚡ **Building Energy** | Building thermal and energy performance | Heating/cooling load, indoor temperature, energy consumption |
+| 🧱 **Building Envelope** | Thermal, hygrothermal, aerodynamic, and durability performance of façades, roofs, windows, curtain walls, insulation systems, and other envelope components | Surface temperature, heat flux, moisture content, condensation risk, pressure, deformation, thermal transmittance |
+| 🔥 **Fire and Smoke** | Fire-driven flow, flame spread, heat transfer, and smoke transport | Temperature, velocity, heat flux, smoke concentration, species concentration |
