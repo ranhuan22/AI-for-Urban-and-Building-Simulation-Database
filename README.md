@@ -7,15 +7,20 @@ This repository aims to establish an open validation benchmark framework for AI-
 The concept is inspired by established CFD validation benchmark frameworks, particularly the benchmark approach developed by the Architectural Institute of Japan (AIJ), in which standardized geometries, boundary conditions, experimental measurements, and numerical results are used for systematic cross-comparison and model validation.
 Here, the same philosophy is extended from conventional CFD validation to AI-based physical simulation.
 
-🎯 Objectives
+## 🎯 Objectives
+
 The database is designed to support four major objectives:
-1 Validation
+
+**1. Validation**  
 Evaluate whether an AI model can accurately reproduce reference experimental or high-fidelity numerical data.
-2 Model Comparison
+
+**2. Model Comparison**  
 Enable fair comparisons among different machine-learning architectures using identical datasets, boundary conditions, data splits, and evaluation metrics.
-3 Generalization
-Test whether a model trained under one set of geometries or physical conditions can predict previously unseen configurations.
-4 Transferability
+
+**3. Generalization**  
+Test whether a model trained under one set of geometries or physical conditions can accurately predict previously unseen configurations.
+
+**4. Transferability**  
 Investigate whether AI models developed for one building, urban morphology, climate, or city can be transferred to other environments.
 
 # Validation Benchmark Tests
