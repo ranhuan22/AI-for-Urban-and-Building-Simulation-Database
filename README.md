@@ -75,3 +75,72 @@ Benchmarks/
 │   │   ├── Test_Data/
 │   │   ├── Baseline_Models/
 │   │   └── Evaluation/
+
+## Why Validation Matters
+
+High prediction accuracy on randomly divided training and test datasets is not sufficient to demonstrate that an AI model has learned the underlying physical behavior.
+
+For urban and building applications, an AI model should ideally demonstrate that it can:
+
+- reproduce trusted reference data;
+- maintain accuracy under unseen physical conditions;
+- generalize to new geometries;
+- preserve important physical behavior;
+- quantify prediction uncertainty; and
+- provide reproducible results across independent studies.
+
+The long-term objective of this project is therefore to move AI-based urban and building simulation from **case-specific prediction** toward **validated, generalizable, and transferable physical modeling**.
+
+---
+
+## Published Studies
+
+Related publications and benchmark applications are collected in:
+
+`Published Papers/`
+
+Researchers are encouraged to contribute publications that use these benchmark datasets for:
+
+- model validation;
+- cross-model comparison;
+- transfer learning;
+- generalization assessment;
+- uncertainty quantification; and
+- AI-assisted urban and building simulation.
+
+---
+
+## Contributing
+
+Contributions from the **urban physics, building envelope, building science, CFD, and machine-learning communities** are welcome.
+
+Possible contributions include:
+
+- New experimental benchmark datasets
+- High-quality CFD reference datasets
+- Validated numerical benchmark datasets
+- New AI/ML baseline models
+- Cross-model comparison studies
+- Cross-city or cross-climate validation cases
+- Geometry generalization studies
+- Transfer-learning applications
+- Uncertainty quantification studies
+- Corrections or improvements to existing datasets
+
+For each new benchmark case, sufficient information should be provided to allow independent researchers to:
+
+1. reproduce the physical problem;
+2. understand the geometry and boundary conditions;
+3. access or reconstruct the reference data;
+4. apply consistent training and test conditions; and
+5. evaluate their AI models using standardized metrics.
+
+---
+
+## Citation
+
+If you use datasets or benchmark cases from this repository, please cite the corresponding original experimental, numerical, or benchmark study listed in each benchmark case.
+
+Where applicable, users are also encouraged to cite the publications describing the benchmark dataset and its validation methodology.
+
+A general citation for this benchmark database will be provided as the project develops.
