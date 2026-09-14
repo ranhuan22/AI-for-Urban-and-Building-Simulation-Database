@@ -23,7 +23,7 @@ Test whether a model trained under one set of geometries or physical conditions 
 **4. Transferability**  
 Investigate whether AI models developed for one building, urban morphology, climate, or city can be transferred to other environments.
 
-# Validation Benchmark Tests
+## Validation Benchmark Tests
 
 Each benchmark case should be treated as a complete **validation problem**, rather than simply as a downloadable dataset.
 
