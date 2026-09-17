@@ -44,7 +44,7 @@ A benchmark case may contain:
 |---|---|
 | **Geometry** | Building, urban district, computational domain, or experimental model |
 | **Physical conditions** | Inflow, thermal, source, material, or operating conditions |
-| **Reference data** | Wind-tunnel experiments, field measurements, laboratory experiments, or validated high-fidelity simulations |
+| **Reference data** | Wind-tunnel experiments, field measurements, laboratory experiments |
 | **Input variables** | Geometry, boundary conditions, environmental parameters, or physical parameters |
 | **Target variables** | Velocity, pressure, temperature, concentration, heat flux, energy use, smoke distribution, etc. |
 | **Training dataset** | Cases available for model development |
