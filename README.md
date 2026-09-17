@@ -62,7 +62,7 @@ The database is intended to progressively cover the following areas.
 | Benchmark Track | Physical Problem | Typical Outputs |
 |---|---|---|
 | 🌬️ **Urban Wind** | Flow around buildings and urban districts | Velocity, pressure, turbulence |
-| 🌡️ **Urban Microclimate** | Urban thermal environment and heat transfer | Air temperature, surface temperature, radiation |
+| 🌡️ **Urban Microclimate** | Urban thermal environment and heat transfer | Air temperature, surface temperature, radiation, humidity |
 | 🧱 **Building Envelope** | Thermal, hygrothermal, aerodynamic, and durability performance of façades, roofs, windows, curtain walls, insulation systems, and other envelope components | Surface temperature, heat flux, moisture content, condensation risk, pressure, deformation, thermal transmittance |
 <!--
 | 🏙️ **Pollutant Dispersion** | Urban contaminant and tracer transport | Concentration, exposure |
